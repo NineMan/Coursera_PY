@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e61ff8a-f7d6-4501-b61c-375b7775e30d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Coursera_PY_week4" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/24 Only squares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/23 Sum of cubes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/min 4 numbers.py" />
+        <option value="$PROJECT_DIR$/2 cut length.py" />
+        <option value="$PROJECT_DIR$/3 Perimeter of a triangle.py" />
+        <option value="$PROJECT_DIR$/4 Is the point a square.py" />
+        <option value="$PROJECT_DIR$/5 Is the point a square-2.py" />
+        <option value="$PROJECT_DIR$/8 Does the dot belong to the area.py" />
+        <option value="$PROJECT_DIR$/9 Exclusive OR.py" />
+        <option value="$PROJECT_DIR$/10 Minimum divisor.py" />
+        <option value="$PROJECT_DIR$/11 Checking the number for simplicity.py" />
+        <option value="$PROJECT_DIR$/12 Exponentional.py" />
+        <option value="$PROJECT_DIR$/13 Negative degree.py" />
+        <option value="$PROJECT_DIR$/14 Addition without addition.py" />
+        <option value="$PROJECT_DIR$/15 Quick exponention.py" />
+        <option value="$PROJECT_DIR$/16 Euclidian algorithm.py" />
+        <option value="$PROJECT_DIR$/17 Reduce the fraction.py" />
+        <option value="$PROJECT_DIR$/18 Fibonacci numbers.py" />
+        <option value="$PROJECT_DIR$/19 Combination numbers.py" />
+        <option value="$PROJECT_DIR$/20 Amount of sequence.py" />
+        <option value="$PROJECT_DIR$/21 Sequence reversal.py" />
+        <option value="$PROJECT_DIR$/22 Hanoi Towers.py" />
+        <option value="$PROJECT_DIR$/23 Lagrange theorem.py" />
+        <option value="$PROJECT_DIR$/24 Sum of cubes.py" />
+        <option value="$PROJECT_DIR$/25 Only squares.py" />
+        <option value="$PROJECT_DIR$/Later/25 Only squares.py" />
+        <option value="$PROJECT_DIR$/1 min 4 numbers.py" />
+        <option value="$PROJECT_DIR$/Later/3 Perimeter of a triangle.py" />
+        <option value="$PROJECT_DIR$/Later/2 cut length.py" />
+        <option value="$PROJECT_DIR$/Done/3 Perimeter of a triangle.py" />
+        <option value="$PROJECT_DIR$/Done/2 cut length.py" />
+        <option value="$PROJECT_DIR$/Later/7 Does the dot belong to the circle.py" />
+        <option value="$PROJECT_DIR$/Later/5 Is the point a square-2.py" />
+        <option value="$PROJECT_DIR$/4 Is the point a square-1.py" />
+        <option value="$PROJECT_DIR$/Done/7 Does the dot belong to the circle.py" />
+        <option value="$PROJECT_DIR$/6 Is the point a round.py" />
+        <option value="$PROJECT_DIR$/7 Does the dot belong to the circle.py" />
+        <option value="$PROJECT_DIR$/9 Minimum divisor.py" />
+        <option value="$PROJECT_DIR$/Later/8 Exclusive OR.py" />
+        <option value="$PROJECT_DIR$/Later/7 Does the dot belong to the area.py" />
+        <option value="$PROJECT_DIR$/10 Checking the number for simplicity.py" />
+        <option value="$PROJECT_DIR$/Done/10 Checking the number for simplicity.py" />
+        <option value="$PROJECT_DIR$/11 Exponention.py" />
+        <option value="$PROJECT_DIR$/13 Addition without addition.py" />
+        <option value="$PROJECT_DIR$/14 Quick exponention.py" />
+        <option value="$PROJECT_DIR$/Later/15 Euclidian algorithm.py" />
+        <option value="$PROJECT_DIR$/16 Reduce the fraction.py" />
+        <option value="$PROJECT_DIR$/Later/17 Fibonacci numbers.py" />
+        <option value="$PROJECT_DIR$/19 Amount of sequence.py" />
+        <option value="$PROJECT_DIR$/20 Sequence reversal.py" />
+        <option value="$PROJECT_DIR$/24 Only squares.py" />
+        <option value="$PROJECT_DIR$/23 Sum of cubes.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Coursera_PY_week4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coursera_PY_week4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Coursera_PY_week4" sdk-home="C:\Users\Mike\AppData\Local\Programs\Python\Python37\python.exe">
+        <option name="mySdkHome" value="C:\Users\Mike\AppData\Local\Programs\Python\Python37\python.exe" />
+        <option name="myModuleName" value="Coursera_PY_week4" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\YandexDisk\___Programming\PycharmProjects\Coursera_PY_week4" />
+      <recent name="D:\YandexDisk\___Programming\PycharmProjects\Coursera_PY_week4\Done" />
+      <recent name="C:\Users\Dell\YandexDisk\___Programming\PycharmProjects\Coursera_PY_week4\Done" />
+      <recent name="C:\Users\Dell\YandexDisk\___Programming\PycharmProjects\Coursera_PY_week4" />
+      <recent name="D:\YandexDisk\___Programming\PycharmProjects\Coursera_PY_week4\Later" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.24 Only squares">
+    <configuration name="16 Reduce the fraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursera_PY_week4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\YandexDisk\___Programming\PycharmProjects\Coursera_PY_week4\Done\16 Reduce the fraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17 Fibonacci numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursera_PY_week4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Later" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\YandexDisk\___Programming\PycharmProjects\Coursera_PY_week4\Done\17 Fibonacci numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="19 Amount of sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursera_PY_week4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\YandexDisk\___Programming\PycharmProjects\Coursera_PY_week4\Done\19 Amount of sequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20 Sequence reversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursera_PY_week4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\YandexDisk\___Programming\PycharmProjects\Coursera_PY_week4\Done\20 Sequence reversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="24 Only squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursera_PY_week4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 Only squares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.16 Reduce the fraction" />
+      <item itemvalue="Python.17 Fibonacci numbers" />
+      <item itemvalue="Python.19 Amount of sequence" />
+      <item itemvalue="Python.20 Sequence reversal" />
+      <item itemvalue="Python.24 Only squares" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.24 Only squares" />
+        <item itemvalue="Python.20 Sequence reversal" />
+        <item itemvalue="Python.19 Amount of sequence" />
+        <item itemvalue="Python.17 Fibonacci numbers" />
+        <item itemvalue="Python.16 Reduce the fraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e61ff8a-f7d6-4501-b61c-375b7775e30d" name="Default Changelist" comment="" />
+      <created>1558034863347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558034863347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49489796" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50510204" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50121653" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5089286" weight="0.35784313" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48958334" weight="0.3398693" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49627978" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985119" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5104167" side_tool="true" weight="0.39215687" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4985119" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Done/10 Checking the number for simplicity.py</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Done/13 Addition without addition.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Done/14 Quick exponention.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Done/19 Amount of sequence.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>8</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/min 4 numbers.py" />
+    <entry file="file://$PROJECT_DIR$/4 Is the point a square.py" />
+    <entry file="file://$PROJECT_DIR$/Later/8 Does the dot belong to the area.py" />
+    <entry file="file://$PROJECT_DIR$/Later/9 Exclusive OR.py" />
+    <entry file="file://$PROJECT_DIR$/10 Minimum divisor.py" />
+    <entry file="file://$PROJECT_DIR$/12 Exponentional.py" />
+    <entry file="file://$PROJECT_DIR$/11 Checking the number for simplicity.py" />
+    <entry file="file://$PROJECT_DIR$/Later/13 Negative degree.py" />
+    <entry file="file://$PROJECT_DIR$/14 Addition without addition.py" />
+    <entry file="file://$PROJECT_DIR$/15 Quick exponention.py" />
+    <entry file="file://$PROJECT_DIR$/Later/16 Euclidian algorithm.py" />
+    <entry file="file://$PROJECT_DIR$/17 Reduce the fraction.py" />
+    <entry file="file://$PROJECT_DIR$/Later/18 Fibonacci numbers.py" />
+    <entry file="file://$PROJECT_DIR$/Later/19 Combination numbers.py" />
+    <entry file="file://$PROJECT_DIR$/20 Amount of sequence.py" />
+    <entry file="file://$PROJECT_DIR$/21 Sequence reversal.py" />
+    <entry file="file://$PROJECT_DIR$/Later/22 Hanoi Towers.py" />
+    <entry file="file://$PROJECT_DIR$/Later/23 Lagrange theorem.py" />
+    <entry file="file://$PROJECT_DIR$/Later/24 Sum of cubes.py" />
+    <entry file="file://$PROJECT_DIR$/Later/25 Only squares.py" />
+    <entry file="file://$PROJECT_DIR$/Done/3 Perimeter of a triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/5 Is the point a square-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/4 Is the point a square-1.py" />
+    <entry file="file://$PROJECT_DIR$/Done/6 Is the point a round.py" />
+    <entry file="file://$PROJECT_DIR$/Done/7 Does the dot belong to the circle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/6 Does the dot belong to the circle.py" />
+    <entry file="file://$PROJECT_DIR$/Done/8 Exclusive OR.py" />
+    <entry file="file://$PROJECT_DIR$/Done/7 Does the dot belong to the area.py" />
+    <entry file="file://$PROJECT_DIR$/Done/9 Minimum divisor.py" />
+    <entry file="file://$PROJECT_DIR$/Done/1 min 4 numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/2 cut length.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="139" column="10" lean-forward="true" selection-start-line="139" selection-start-column="10" selection-end-line="139" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/10 Checking the number for simplicity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/13 Addition without addition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/14 Quick exponention.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/16 Reduce the fraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/15 Euclidian algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/17 Fibonacci numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/11 Exponention.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18 Combination numbers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12 Negative degree.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/20 Sequence reversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Done/19 Amount of sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23 Sum of cubes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24 Only squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
